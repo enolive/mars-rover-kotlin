@@ -3,8 +3,7 @@
 Project setup to do the [Mars Rover Kata](https://kata-log.rocks/mars-rover-kata)
 and show some folks kotlin basics.
 While the implementation is supposed to be written
-in kotlin, the tests are in groovy as I consider
-[Spock](http://spockframework.org/) to be the greatest thing ever<sup>TM</sup>.
+in kotlin, the tests are in [Kotest](https://kotest.io).
 
 ## rationale
 
